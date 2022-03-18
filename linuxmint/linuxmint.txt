@@ -1,3 +1,12 @@
 Primeira etapa.: Criar Pendriver do Linux Mint;
+Download do Linux Mint: https://linuxmint.com/download.php
+Rufus: https://rufus.ie/pt_BR/
+
 Segunda Etapa.: Bootar no Notebook com o Pendriver do Linux Mint;
+Tecla de Menu de inicialização: F8 
+Tecla de BIOS: Del
+
 Terceira Etapa.: Formatar e instalar Linux Mint.
+Gparted: é o aplicativo GNOME para edição de partições. 
+Suas funções são as de detectar, ler, criar, destruir, redimensionar, verificar, mover e copiar partições e seus sistemas de arquivos.
+
