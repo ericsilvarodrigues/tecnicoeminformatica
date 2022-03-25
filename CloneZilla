@@ -1,0 +1,31 @@
+Trabalhar com clonagem do HD (Hard Disk) utilizando a solução Open Source Clonezilla.
+
+primeira etapa: copiar ISO do Clonezilla da rede para Pasta local do seu computador C:\ISO.
+
+Segunda etapa: iniciar a maquina Virtual do microsoft Windows que você utilizou com o Leandro Ramos.
+
+=========================================================================================================================================================================
+
+Clonagem por Imagem (IMG)
+
+#Trabalhar com clonagem de HD (Hard Disk) utilizando a Solução Open Source CloneZilla
+
+Primeira etapa.: Criar um diretório chamado: IMG na partição Backup
+
+Segunda etapa: Iniciar o CloneZilla.
+
+Terceira Etapa.: Após a clonagem, iniciar o Windows, verificar no diretório IMG se a imagem foi criada. 
+
+Quarta Etapa...: Adicionar mais um Hard Disk ZERADO.
+
+Quinta Etapa...: Fazer a restauração da IMAGEM no novo Hard Disk. 
+=========================================================================================================================================================================
+
+Finalização: No windows restaurado, instalar alguns software, Exemplo:
+Google Chrome
+Mozilla Firefox
+CPU-Z - GPU-Z
+7-ZIP
+
+Finalizar criando mais uma imagem com o nome: matriz-img
+No mesmo diretório da outra imagem: IMG
